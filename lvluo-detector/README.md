@@ -57,7 +57,8 @@ lvluo-detector/
 
 ## 界面截图
 
-（运行后截图放这里）
+<img width="1121" height="948" alt="666" src="https://github.com/user-attachments/assets/8d2108fb-fd1b-46cd-ad17-56815a6652bf" />
+
 
 ## 环境要求
 
